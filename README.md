@@ -11,6 +11,8 @@ resources into a single output Jar. To build the Jar, run the following command:
 ./gradlew shadowJar
 ```
 
+The output Jar is located at `build/libs/trajectory-tracking-1.0-SNAPSHOT-all.jar`
+
 ## Dependencies
 
 - Java 17
