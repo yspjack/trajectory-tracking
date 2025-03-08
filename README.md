@@ -15,11 +15,16 @@ The output Jar is located at `build/libs/trajectory-tracking-1.0-SNAPSHOT-all.ja
 
 ## Trajectory Datasets
 
-GeoLife
+### GeoLife
+
+This GPS trajectory dataset was collected in (Microsoft Research Asia) Geolife project by 182 users in a period of over three years (from April 2007 to August 2012).
 
 https://www.microsoft.com/en-us/download/details.aspx?id=52367
 
-Mopsi
+### Mopsi
+
+Mopsi contains 6,779 routes (7,850,387 points) recorded by 51 users in a period from 2008 to 2014.
+Most routes are in Finland, in Joensuu region.
 
 http://cs.uef.fi/mopsi/routes/dataset/
 
