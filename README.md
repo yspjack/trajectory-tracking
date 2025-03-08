@@ -13,6 +13,16 @@ resources into a single output Jar. To build the Jar, run the following command:
 
 The output Jar is located at `build/libs/trajectory-tracking-1.0-SNAPSHOT-all.jar`
 
+## Trajectory Datasets
+
+GeoLife
+
+https://www.microsoft.com/en-us/download/details.aspx?id=52367
+
+Mopsi
+
+http://cs.uef.fi/mopsi/routes/dataset/
+
 ## Dependencies
 
 - Java 17
